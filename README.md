@@ -2,6 +2,9 @@
 A project where the player is a ball that infinitly moves forward.
 The player must avoid other automatically spawned obstacles by moving to sides.
 
+## Goal of the game
+Goal of the game is to play for as long as possible by avoiding the obstacles to score points.
+
 ## Getting Started
 1) Entering the game
 2) Building the game
