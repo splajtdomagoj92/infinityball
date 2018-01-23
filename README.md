@@ -1,4 +1,6 @@
 # infinityball
+Built with Unity 5.5.1f
+
 A project where the player is a ball that infinitly moves forward.
 The player must avoid other automatically spawned obstacles by moving to sides.
 
@@ -6,8 +8,13 @@ The player must avoid other automatically spawned obstacles by moving to sides.
 Goal of the game is to play for as long as possible by avoiding the obstacles to score points.
 
 ## Getting Started
+0) Unpacking the project
 1) Entering the game
 2) Building the game
+
+## 0) Unpacking the project
+Download codecacao.7z and unpack it anywhere on your computer.
+Open Unity and open a project, point to the extracted codecacao folder.
 
 ## 1) Entering the game
 Editor - load scene "scene_0" from the scene folder and click the play button in editor
